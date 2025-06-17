@@ -2,6 +2,8 @@
 
 <p>배운 것을 기록하며 통찰력을 쌓는, ‘될 때까지 하는’ 개발자입니다.</p>
 
+![](https://komarev.com/ghpvc/?username=id3ntity99)
+
 ---
 
 <h3>🛠 Tech Stack</h3>
@@ -74,7 +76,3 @@
 이력서: https://www.notion.so/215da2f3336280e8a5aec9e4e7122d6e?source=copy_link <br/>
 이메일: jas06113@gmail.com <br/>
 블로그: https://www.notion.so/Jason-Lee-188da2f3336280e9a6e3f0bc8b8184f9?source=copy_link
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/kimsohyeon97/count.svg)
