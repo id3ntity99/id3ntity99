@@ -68,8 +68,8 @@
 
 | 프로젝트명 | 설명 | 기술 스택 | 기간 |
 |-----------|------|-----------|------|
-| 🛒 [롯데온: 온라인 쇼핑물 클론 코딩 프로젝트](https://github.com/id3ntity99/lotte1-lotteon-project-team1) | 애플리케이션 아키텍처 / 인프라 / 데이터베이스 설계, 트러블 슈팅, 팀원 기여도 관리 | Java, Spring Boot, MySQL, MongoDB, Redis, Elasticsearch, AWS, Docker, Git |  2025.04.18 ~ 2025.05.20 |
-| 🧩 [zylo: 협업 툴 프로젝트](https://github.com/greenlotte6/lotte2-community-app-project-team4) | MSA 적용, 애플리케이션 아키텍처 / 인프라 / RDBMS 설계, 트러블 슈팅, 팀원 기여도 관리, API 게이트웨이, 드라이브 API, 회원 가입 및 로그인/로그아웃 API| React.js, Java, Spring Boot, MySQL, MongoDB, Redis, Elasticsearch, AWS, Docker, Git | 2025.06.05 ~ 2025.07.01 |
+| 🛒 [롯데온: 온라인 쇼핑물 클론 코딩 프로젝트](https://github.com/id3ntity99/lotte1-lotteon-project-team1) | <ul><li>애플리케이션 아키텍처 / 인프라 / 데이터베이스 설계</li><li>트러블 슈팅, 팀원 기여도 관리</li></ul> | Java, Spring Boot, MySQL, MongoDB, Redis, Elasticsearch, AWS, Docker, Git |  2025.04.18 ~ 2025.05.20 |
+| 🧩 [zylo: 협업 툴 프로젝트](https://github.com/greenlotte6/lotte2-community-app-project-team4) | <ul><li>MSA 적용</li><li>애플리케이션 아키텍처 / 인프라 / RDBMS 설계</li><li>트러블 슈팅</li><li>팀원 기여도 관리</li><li>API 게이트웨이</li><li>드라이브 API, 회원 가입 및 로그인/로그아웃 API</li></ul>| React.js, Java, Spring Boot, MySQL, MongoDB, Redis, Elasticsearch, AWS, Docker, Git | 2025.06.05 ~ 2025.07.01 |
 
 
 > 각 프로젝트 리포지토리에 들어가면 자세한 설명 확인 가능합니다.
