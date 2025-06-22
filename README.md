@@ -75,7 +75,8 @@
 > 각 프로젝트 리포지토리에 들어가면 자세한 설명 확인 가능합니다.
 ---
 
-### 📫 Contact
-이력서: https://www.notion.so/215da2f3336280e8a5aec9e4e7122d6e?source=copy_link <br/>
+### 📫 Contact & Links
+> 개인 연락처는 이력서 링크를 클릭하면 볼 수 있습니다.
 이메일: jas06113@gmail.com <br/>
+이력서: https://www.notion.so/215da2f3336280e8a5aec9e4e7122d6e?source=copy_link <br/>
 블로그: https://www.notion.so/Jason-Lee-188da2f3336280e9a6e3f0bc8b8184f9?source=copy_link
