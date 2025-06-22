@@ -6,7 +6,7 @@
 
 ---
 
-<h2>🛠 Tech Stack</h32
+## 🛠 Tech Stack
 
 <table>
   <tr>
