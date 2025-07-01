@@ -83,6 +83,5 @@
 > [zylo 포트폴리오 바로가기 <br/>](https://www.notion.so/zylo-21cda2f333628047af3be119efc4c0f6?source=copy_link)
 
 ## 📫 Contact & Links
-> 개인 연락처는 이력서 링크를 클릭하면 볼 수 있습니다. <br/>
 이메일: jas06113@gmail.com <br/>
 블로그: [노션 블로그 바로가기](https://www.notion.so/Jason-Lee-188da2f3336280e9a6e3f0bc8b8184f9?source=copy_link)
