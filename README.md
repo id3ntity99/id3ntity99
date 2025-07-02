@@ -76,11 +76,7 @@
 ---
 
 ## 포트폴리오
-1. 롯데온 쇼핑몰 클론 프로젝트
-> [롯데온 포트폴리오 바로가기](https://www.notion.so/21cda2f333628047af3be119efc4c0f6?source=copy_link)
-
-2. zylo - 협업 툴 애플리케이션 프로젝트
-> [zylo 포트폴리오 바로가기 <br/>](https://www.notion.so/zylo-21cda2f333628047af3be119efc4c0f6?source=copy_link)
+> [포트폴리오 바로가기 <br/>](https://www.notion.so/224da2f33362804fa761c60e0d45e261?source=copy_link)
 
 ## 📫 Contact & Links
 이메일: jas06113@gmail.com <br/>
